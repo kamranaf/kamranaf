@@ -1,0 +1,9 @@
+Pkg update
+Pkg upgrade
+Pkg install python
+Pkg install git
+King.jani.555
+git clone https://github.com/kamran/kingjani.555
+cd mr.king555
+Is
+Python king.py
